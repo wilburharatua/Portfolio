@@ -3,7 +3,9 @@ Hello! I'm an Information Systems student at Bina Nusantara University, with a s
 
 ## My projects
 ### Automation Testing: 
-* [Automation Test for E-Commerce Website] , written in **Javascript** with **Playwright** Framework
+* [E2E WEB Automation Test for E-Commerce Website] , written in **Javascript** with **Playwright** Framework
+* [E2E WEB Automation Test] , with Katalon Studio
+* [E2E MOBILE (Android) Automation Test], written in **Javascript** with **WebdriverIO** & **Appium** Framework
 ### Test Cases: 
 * [Test Case for E-Commerce Website]
 ### Bug Report:
