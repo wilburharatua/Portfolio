@@ -29,6 +29,7 @@ Hello! I'm an Information Systems student at Bina Nusantara University, with a s
   - Hopscotch
 - Performance Test:
   - JMeter
+  - K6
 - Reporting:
   - JAM
   - Google Sheets
