@@ -1,6 +1,7 @@
 # Wilbur Haratua
-Hello! I'm an Information Systems student at Bina Nusantara University, with a strong focus on web application testing and software quality assurance. I thrive on problem-solving and collaboration, always eager to explore new technologies and expand my skill set. I’m passionate about continuous learning and growth, and I’m excited to take on new challenges in the tech world!
-
+Hello! I'm an Information Systems student at Bina Nusantara University with a strong passion for web application testing and software quality assurance. I thrive on problem-solving, collaboration, and continuously expanding my skill set by exploring new technologies.
+I have hands-on experience in Quality Assurance (QA), where I focus on ensuring software reliability and performance. I am highly adaptable, able to quickly grasp new concepts, and always eager to learn and grow in the ever-evolving tech industry.
+Excited to take on new challenges and contribute to building high-quality software! 🚀
 ## My projects
 ### Automation Testing:
   >Below are some of my automation testing projects, using dummy websites.
