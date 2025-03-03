@@ -3,7 +3,7 @@ Hello! I'm an Information Systems student at Bina Nusantara University, with a s
 
 ## My projects
 ### Automation Testing:
-  >These are some of my projects, using dummy websites
+  >Below are some of my automation testing projects, using dummy websites.
 * [E2E WEB Automation Test for an E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_playwright_portofolio.git), written in **Typescript** with **Playwright** Framework
   >This project follows the Page Object Model (POM) to enhance readability and maintainability.
 * [E2E WEB Automation Test for an E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_katalon_portofolio.git), built with **Katalon Studio**
