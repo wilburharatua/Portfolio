@@ -4,12 +4,13 @@ Hello! I'm an Information Systems student at Bina Nusantara University, with a s
 ## My projects
 ### Automation Testing:
   >These are some of my projects, using dummy websites
-* [E2E WEB Automation Test], with **Katalon Studio**
-* [E2E WEB Automation Test for E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_playwright_portofolio.git), written in **Typescript** with **Playwright** Framework
-  >For this automation test, I implemented a Page Object Model (POM) to maintain its readability and maintainability.
+* [E2E WEB Automation Test for an E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_playwright_portofolio.git), written in **Typescript** with **Playwright** Framework
+  >This project follows the Page Object Model (POM) to enhance readability and maintainability.
+* [E2E WEB Automation Test for an E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_katalon_portofolio.git), built with **Katalon Studio**
+  >This project implements the same test cases as the Playwright project to compare different automation tools.
 * [E2E MOBILE (Android) Automation Test], written **Javascript** with **WebdriverIO** & **Appium** Framework
 ### Test Cases: 
-* [Test Case for E-Commerce Website](https://docs.google.com/spreadsheets/d/14uSx_zqP_LAVH-4IDUN9yYr3G_uNJEMp6pBTcnKEFNQ/edit?usp=sharing)
+* [E-Commerce Website (saucedemo.com)](https://docs.google.com/spreadsheets/d/14uSx_zqP_LAVH-4IDUN9yYr3G_uNJEMp6pBTcnKEFNQ/edit?usp=sharing)
 * [Test Case for Mobile (Android) App]  
 ### Bug Report:
 
