@@ -2,7 +2,8 @@
 Hello! I'm an Information Systems student at Bina Nusantara University, with a strong focus on web application testing and software quality assurance. I thrive on problem-solving and collaboration, always eager to explore new technologies and expand my skill set. I’m passionate about continuous learning and growth, and I’m excited to take on new challenges in the tech world!
 
 ## My projects
-### Automation Testing: 
+### Automation Testing:
+  >These are some of my projects, using dummy websites
 * [E2E WEB Automation Test], with **Katalon Studio**
 * [E2E WEB Automation Test for E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_playwright_portofolio.git), written in **Typescript** with **Playwright** Framework
   >For this automation test, I implemented a Page Object Model (POM) to maintain its readability and maintainability.
