@@ -9,12 +9,13 @@ Excited to take on new challenges and contribute to building high-quality softwa
   >This project follows the Page Object Model (POM) to enhance readability and maintainability.
 * [E2E WEB Automation Test for an E-Commerce Website](https://github.com/wilburharatua/ecommerce_web_katalon_portofolio.git), built with **Katalon Studio**
   >This project implements the same test cases as the Playwright project to compare different automation tools.
-* [E2E MOBILE (Android) Automation Test], written **Javascript** with **WebdriverIO** & **Appium** Framework
+* [E2E MOBILE (Android) Automation Test](https://github.com/wilburharatua/android_webdriverio.git), written **Typecript** with **WebdriverIO** & **Appium** Framework
+* >This project follows the Page Object Model (POM) to enhance readability and maintainability.
 ### Test Cases: 
 * [E-Commerce Website (saucedemo.com)](https://docs.google.com/spreadsheets/d/14uSx_zqP_LAVH-4IDUN9yYr3G_uNJEMp6pBTcnKEFNQ/edit?usp=sharing)
-* [Test Case for Mobile (Android) App]  
+* [Android Application (wdiodemoapp)](https://docs.google.com/spreadsheets/d/1t3Ho_DuSL5QGt59HbTajdhS2iFr2P8LqKgH98xrH1O8/edit?usp=sharing)
 ### Bug Report:
-
+* [Bug Report Example](https://docs.google.com/spreadsheets/d/1a-Fc0iQM0SDzcYke5_8jqQa0VPqIqwWMNm8_VHpreys/edit?usp=sharing)
 ## Tools & Skills 
 - Programming:
   - Java
