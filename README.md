@@ -35,10 +35,9 @@ Excited to take on new challenges and contribute to building high-quality softwa
 - Performance Test:
   - JMeter
   - K6
-- Reporting:
-  - JAM
-  - Google Sheets
-  - Microsoft Excel
+- Test Case Management:
+  - Test Rail
+  - Jira
 
 ## Certificate
 - [Katalon Practitioner Level Certification](https://academy.katalon.com/mcertificate/6761167d6ae00)
